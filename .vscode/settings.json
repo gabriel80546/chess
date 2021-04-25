@@ -1,0 +1,6 @@
+{
+	"files.associations": {
+		"chess.h": "c",
+		"stdarg.h": "c"
+	}
+}
